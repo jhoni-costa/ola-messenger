@@ -4,4 +4,10 @@
     <string name="apresentation_01">Converse com seus amigos</string>
     <string name="apresentation_02">Reuna seus grupos</string>
     <string name="apresentation_03">Compartilhe suas idéias</string>
+
+    <string name="input_senha">Digite sua senha:</string>
+    <string name="input_email">Digite seu e-mail:</string>
+    <string name="input_nome">Digite seu nome:</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_cadastre_se">Não tem conta? Cadastre-se</string>
 </resources>

@@ -25,6 +25,10 @@ public class ApresentationActivity extends IntroActivity {
         addSlide(new FragmentSlide.Builder()
                 .background(R.color.colorPrimary)
                 .fragment(R.layout.intro_03)
+                .build());
+        addSlide(new FragmentSlide.Builder()
+                .background(R.color.colorPrimary)
+                .fragment(R.layout.intro_login)
                 .canGoForward(false)
                 .build());
     }
