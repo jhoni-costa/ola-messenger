@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270907627275",
+    "firebase_url": "https://ola-messenger-4672c.firebaseio.com",
+    "project_id": "ola-messenger-4672c",
+    "storage_bucket": "ola-messenger-4672c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270907627275:android:dcd42672ce0350a8",
+        "android_client_info": {
+          "package_name": "br.com.jhonicosta.ola_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270907627275-307u47rhe3hpvt6jkaitnj6d01fmrq2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jhonicosta.ola_messenger",
+            "certificate_hash": "c176dae02108385d589118c3d95a5d63e5da8af5"
+          }
+        },
+        {
+          "client_id": "270907627275-4nimd73f0dgdaghep8lnu4gi1pu9p15l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdggAtcHW-7XEWpy1LNMMfsxfI4HtKLD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270907627275-4nimd73f0dgdaghep8lnu4gi1pu9p15l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
