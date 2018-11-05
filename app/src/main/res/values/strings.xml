@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ola-messenger</string>
+    <string name="app_name">Olá Messenger</string>
+
+    <string name="apresentation_01">Converse com seus amigos</string>
+    <string name="apresentation_02">Reuna seus grupos</string>
+    <string name="apresentation_03">Compartilhe suas idéias</string>
 </resources>
