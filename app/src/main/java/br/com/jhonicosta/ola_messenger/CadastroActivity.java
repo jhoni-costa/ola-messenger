@@ -2,14 +2,15 @@ package br.com.jhonicosta.ola_messenger;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Window;
 
-public class LoginActivity extends AppCompatActivity {
+public class CadastroActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
 
-        getActionBar().hide();
+        setContentView(R.layout.activity_cadastro);
+
     }
 }

@@ -1,6 +1,8 @@
 package br.com.jhonicosta.ola_messenger;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;
@@ -31,5 +33,9 @@ public class ApresentationActivity extends IntroActivity {
                 .fragment(R.layout.intro_login)
                 .canGoForward(false)
                 .build());
+    }
+
+    public void goCadastro(View view) {
+        startActivity(new Intent(this, CadastroActivity.class));
     }
 }
